@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "bolste",
+  ],
+  "plugins": [
+    ["babel-plugin-transform-builtin-extend"]
+  ]
+}
